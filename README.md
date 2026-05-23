@@ -1,7 +1,7 @@
 # LIGHTNING-STORM
 This is an interesting project for beginners using breadboard and LEDs in which different patterns will appear of lights will appear 
 <br>
-## COMPONENTS REQUIRED
+## <u>COMPONENTS REQUIRED</u>
 <ol type="I">
   <li>LEDs</li>
   <li>1 k-ohm Resister</li>
