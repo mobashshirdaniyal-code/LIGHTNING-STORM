@@ -1,8 +1,8 @@
 # LIGHTNING-STORM
 This is an interesting project for beginners using breadboard and LEDs in which different patterns will appear of lights will appear 
 <br>
-## <u>COMPONENTS REQUIRED</u>
-<ol type="I">
+## COMPONENTS REQUIRED
+<ol type="1">
   <li>LEDs</li>
   <li>1 k-ohm Resister</li>
   <li>Male to Male Jumper Wires</li>
@@ -10,5 +10,7 @@ This is an interesting project for beginners using breadboard and LEDs in which 
   <li>Breadboard</li>
   <li>Power Resource</li>
 </ol>
+
+## IMAGES
 ### LIGHTNING STRIKE
 <img src="LIGHTNING STRIKE.jpeg" alt="IMAGE" width="190px">
