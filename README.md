@@ -18,5 +18,10 @@ This is an interesting project for beginners using breadboard and LEDs in which 
 ### LIGHTNING STRIKE
 <img src="LIGHTNING STRIKE.jpeg" alt="IMAGE" width="190px">
 
+## HOW TO MAKE?
+This is my YouTube video link to make
+
+https://youtu.be/EmlVK20ULBo?si=pqz4Wyzvb2L8HyKs
+
 ## GET CODE
 Code present in file "Code for Lightning Storm.txt"
