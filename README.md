@@ -3,10 +3,10 @@ This is an interesting project for beginners using breadboard and LEDs in which 
 <br>
 ## COMPONENTS REQUIRED
 ---
-<ol type="1">
-  <li>LEDs</li>
-  <li>1 k-ohm Resister</li>
-  <li>Male to Male Jumper Wires</li>
+><ol type="1">
+>  <li>LEDs</li>
+>  <li>1 k-ohm Resister</li>
+>  <li>Male to Male Jumper Wires</li>
   <li>Arduino Uno</li>
   <li>Breadboard</li>
   <li>Power Resource</li>
