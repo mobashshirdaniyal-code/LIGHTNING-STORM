@@ -12,10 +12,10 @@ This is an interesting project for beginners using breadboard and LEDs in which 
 </ol>
 
 ## IMAGES
-#### OFF STRIKE
+### OFF STRIKE
 <img src="OFF STRIKE.jpeg" alt="IMAGE" width="190px">
 
-#### LIGHTNING STRIKE
+### LIGHTNING STRIKE
 <img src="LIGHTNING STRIKE.jpeg" alt="IMAGE" width="190px">
 
 ## HOW TO MAKE?
