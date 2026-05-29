@@ -2,7 +2,6 @@
 This is an interesting project for beginners using breadboard and LEDs in which different patterns will appear of lights will appear 
 <br>
 ## COMPONENTS REQUIRED
----
 <ol type="1">
    <li>LEDs</li>
   <li>1 k-ohm Resister</li>
