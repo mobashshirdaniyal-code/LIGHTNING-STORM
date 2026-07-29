@@ -22,5 +22,9 @@ This is an interesting project for beginners using breadboard and LEDs in which 
 This is my YouTube video link to make :
 https://youtu.be/EmlVK20ULBo?si=pqz4Wyzvb2L8HyKs
 
+## SCHEMATIC / CIRCUIT DIAGRAM
+<img src="STORM SCHEMATIC.png" alt="IMAGE" width="300px">
+
+
 ## GET CODE
 Code present in file "Code for Lightning Storm.txt"
