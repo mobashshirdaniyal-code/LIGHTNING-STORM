@@ -29,6 +29,8 @@ https://youtu.be/EmlVK20ULBo?si=pqz4Wyzvb2L8HyKs
 ## GET CODE
 Code present in file "Code for Lightning Storm.txt"
 
+<link rel="https://github.com/mobashshirdaniyal-code/LIGHTNING-STORM/blob/main/Code%20for%20Lightning%20Storm.txt" href="code link">
+
 ## GET IN TOUCH
 This is my YouTube channel link :
 https://www.youtube.com/@RADIATION-3OI
