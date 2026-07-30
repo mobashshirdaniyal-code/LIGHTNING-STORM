@@ -1,9 +1,6 @@
 # LIGHTNING STORM
 This is an interesting project for beginners using breadboard and LEDs in which different patterns will appear of lights will appear 
 <br>
-
-//<a href="https://github.com/mobashshirdaniyal-code/LIGHTNING-STORM/blob/main/README.md#components-required">Components Required</a>
-
 ## COMPONENTS REQUIRED
 <ol type="1">
    <li>LEDs</li>
